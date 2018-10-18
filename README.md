@@ -16,7 +16,7 @@ A complete tutorial which explains step by step how this application has been cr
 
 
 ## License
-This is an open-source app—built by [@ColtaEmanuela](https://github.com/ColtaEmanuela) and [@IonicaBizau](https://github.com/IonicaBizau).
+
 
 See the [LICENSE](LICENSE) file.
 
