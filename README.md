@@ -1,4 +1,4 @@
-# :fire: FireEdit :pencil:
+# :fire: Twopalm :pencil:
 A real-time editor built with JavaScript and Firebase.
 
 [Click here](https://coltaemanuela.github.io/FireEdit/) to see it in action. :rocket:
