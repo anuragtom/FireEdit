@@ -1,6 +1,6 @@
 $(function() {
 
-    // Initialize Firebase configuration
+    // Initialize Firebase config
     var config = {
         apiKey: "AIzaSyAsFK9oDTtsCdqrHAfQKs8_TmNtBOoIkBY",
         authDomain: "emma-ea74d.firebaseapp.com",
