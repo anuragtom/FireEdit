@@ -10,9 +10,6 @@ Real-time collaboration is enhanced by Firebase.
 
 Access the editor, personalize it by naming it and by choosing the theme your prefer, share the URL and start the collaboration. :busts_in_silhouette:
 
-## [How we did it 👈][tutorial] 
-
-A complete tutorial which explains step by step how this application has been created is available [here][tutorial]. :books:
 
 
 ## License
